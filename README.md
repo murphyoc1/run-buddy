@@ -1,4 +1,4 @@
-# run-buddy
+# Run Buddy Inc.
 run buddy, module 1 project
 
 ## Purpose
